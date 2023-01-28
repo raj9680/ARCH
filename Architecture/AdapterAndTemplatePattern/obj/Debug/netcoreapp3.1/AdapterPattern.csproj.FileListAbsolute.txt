@@ -1,0 +1,14 @@
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\AdapterAndTemplatePattern\bin\Debug\netcoreapp3.1\AdapterPattern.exe
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\AdapterAndTemplatePattern\bin\Debug\netcoreapp3.1\AdapterPattern.deps.json
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\AdapterAndTemplatePattern\bin\Debug\netcoreapp3.1\AdapterPattern.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\AdapterAndTemplatePattern\bin\Debug\netcoreapp3.1\AdapterPattern.runtimeconfig.dev.json
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\AdapterAndTemplatePattern\bin\Debug\netcoreapp3.1\AdapterPattern.dll
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\AdapterAndTemplatePattern\bin\Debug\netcoreapp3.1\AdapterPattern.pdb
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\AdapterAndTemplatePattern\obj\Debug\netcoreapp3.1\AdapterPattern.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\AdapterAndTemplatePattern\obj\Debug\netcoreapp3.1\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\AdapterAndTemplatePattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\AdapterAndTemplatePattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\AdapterAndTemplatePattern\obj\Debug\netcoreapp3.1\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\AdapterAndTemplatePattern\obj\Debug\netcoreapp3.1\AdapterPattern.dll
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\AdapterAndTemplatePattern\obj\Debug\netcoreapp3.1\AdapterPattern.pdb
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\AdapterAndTemplatePattern\obj\Debug\netcoreapp3.1\AdapterPattern.genruntimeconfig.cache

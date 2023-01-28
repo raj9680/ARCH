@@ -1,0 +1,14 @@
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\bin\Debug\netcoreapp3.1\Architecture.exe
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\bin\Debug\netcoreapp3.1\Architecture.deps.json
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\bin\Debug\netcoreapp3.1\Architecture.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\bin\Debug\netcoreapp3.1\Architecture.runtimeconfig.dev.json
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\bin\Debug\netcoreapp3.1\Architecture.dll
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\bin\Debug\netcoreapp3.1\Architecture.pdb
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\obj\Debug\netcoreapp3.1\Architecture.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\obj\Debug\netcoreapp3.1\Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\obj\Debug\netcoreapp3.1\Architecture.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\obj\Debug\netcoreapp3.1\Architecture.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\obj\Debug\netcoreapp3.1\Architecture.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\obj\Debug\netcoreapp3.1\Architecture.dll
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\obj\Debug\netcoreapp3.1\Architecture.pdb
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\obj\Debug\netcoreapp3.1\Architecture.genruntimeconfig.cache

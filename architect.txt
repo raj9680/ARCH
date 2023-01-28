@@ -1,0 +1,33 @@
+Technical Roadmap
+- UML
+- Agile
+- Project Estimation
+- OOPs/Database Design
+- Design Patterns (Naturally)
+- Architecture pattern
+- Infrastructure
+-------------------------------------
+
+1). Domain Driven Development (DDD)
+DDD deals with mind, its not technical. 
+Example if you're working on Travel Application
+
+=> Golden Rule for best DDD, Just follow the domain as it is, ex:- If there is a ticket out there create a class "Ticket" not cls_ticket.
+=> Do not do over architecting. Just follow the process as it is i.e. DDD just says, you develop softwares for end cx,so just do what cx demands or end user speaks about.
+=> Entities: class which have fixed variables used throughout the application.
+=> 
+
+----------------------------------------
+
+Lec. 2
+1). Entity Category Class
+ex: Account, Customer, Person etc.
+creating simple classes,
+
+
+2). Service class category
+ex: DAL, Logger, Caching etc.
+
+
+3). Value Object class category
+value object are the classes which compares on the value.

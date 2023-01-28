@@ -1,0 +1,13 @@
+C:\Users\raj.kumar\Desktop\Architecture\AggregateRootAndIterator\bin\Debug\netcoreapp3.1\AggregateRootAndIterator.exe
+C:\Users\raj.kumar\Desktop\Architecture\AggregateRootAndIterator\bin\Debug\netcoreapp3.1\AggregateRootAndIterator.deps.json
+C:\Users\raj.kumar\Desktop\Architecture\AggregateRootAndIterator\bin\Debug\netcoreapp3.1\AggregateRootAndIterator.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\Architecture\AggregateRootAndIterator\bin\Debug\netcoreapp3.1\AggregateRootAndIterator.runtimeconfig.dev.json
+C:\Users\raj.kumar\Desktop\Architecture\AggregateRootAndIterator\bin\Debug\netcoreapp3.1\AggregateRootAndIterator.dll
+C:\Users\raj.kumar\Desktop\Architecture\AggregateRootAndIterator\bin\Debug\netcoreapp3.1\AggregateRootAndIterator.pdb
+C:\Users\raj.kumar\Desktop\Architecture\AggregateRootAndIterator\obj\Debug\netcoreapp3.1\AggregateRootAndIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\Architecture\AggregateRootAndIterator\obj\Debug\netcoreapp3.1\AggregateRootAndIterator.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\Architecture\AggregateRootAndIterator\obj\Debug\netcoreapp3.1\AggregateRootAndIterator.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\Architecture\AggregateRootAndIterator\obj\Debug\netcoreapp3.1\AggregateRootAndIterator.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\Architecture\AggregateRootAndIterator\obj\Debug\netcoreapp3.1\AggregateRootAndIterator.dll
+C:\Users\raj.kumar\Desktop\Architecture\AggregateRootAndIterator\obj\Debug\netcoreapp3.1\AggregateRootAndIterator.pdb
+C:\Users\raj.kumar\Desktop\Architecture\AggregateRootAndIterator\obj\Debug\netcoreapp3.1\AggregateRootAndIterator.genruntimeconfig.cache

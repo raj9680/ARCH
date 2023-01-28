@@ -1,0 +1,14 @@
+C:\Users\raj.kumar\Desktop\Architecture\EntityServiceAndValue\bin\Debug\netcoreapp3.1\EntityServiceAndValue.exe
+C:\Users\raj.kumar\Desktop\Architecture\EntityServiceAndValue\bin\Debug\netcoreapp3.1\EntityServiceAndValue.deps.json
+C:\Users\raj.kumar\Desktop\Architecture\EntityServiceAndValue\bin\Debug\netcoreapp3.1\EntityServiceAndValue.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\Architecture\EntityServiceAndValue\bin\Debug\netcoreapp3.1\EntityServiceAndValue.runtimeconfig.dev.json
+C:\Users\raj.kumar\Desktop\Architecture\EntityServiceAndValue\bin\Debug\netcoreapp3.1\EntityServiceAndValue.dll
+C:\Users\raj.kumar\Desktop\Architecture\EntityServiceAndValue\bin\Debug\netcoreapp3.1\EntityServiceAndValue.pdb
+C:\Users\raj.kumar\Desktop\Architecture\EntityServiceAndValue\obj\Debug\netcoreapp3.1\EntityServiceAndValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\Architecture\EntityServiceAndValue\obj\Debug\netcoreapp3.1\EntityServiceAndValue.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\Architecture\EntityServiceAndValue\obj\Debug\netcoreapp3.1\EntityServiceAndValue.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\Architecture\EntityServiceAndValue\obj\Debug\netcoreapp3.1\EntityServiceAndValue.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\Architecture\EntityServiceAndValue\obj\Debug\netcoreapp3.1\EntityServiceAndValue.dll
+C:\Users\raj.kumar\Desktop\Architecture\EntityServiceAndValue\obj\Debug\netcoreapp3.1\EntityServiceAndValue.pdb
+C:\Users\raj.kumar\Desktop\Architecture\EntityServiceAndValue\obj\Debug\netcoreapp3.1\EntityServiceAndValue.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\Architecture\EntityServiceAndValue\obj\Debug\netcoreapp3.1\EntityServiceAndValue.csproj.AssemblyReference.cache

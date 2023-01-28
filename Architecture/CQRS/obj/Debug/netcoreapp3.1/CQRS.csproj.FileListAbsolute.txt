@@ -1,0 +1,16 @@
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\CQRS\bin\Debug\netcoreapp3.1\CQRS.exe
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\CQRS\bin\Debug\netcoreapp3.1\CQRS.deps.json
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\CQRS\bin\Debug\netcoreapp3.1\CQRS.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\CQRS\bin\Debug\netcoreapp3.1\CQRS.runtimeconfig.dev.json
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\CQRS\bin\Debug\netcoreapp3.1\CQRS.dll
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\CQRS\bin\Debug\netcoreapp3.1\CQRS.pdb
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\CQRS\bin\Debug\netcoreapp3.1\Ninject.dll
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\CQRS\obj\Debug\netcoreapp3.1\CQRS.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\CQRS\obj\Debug\netcoreapp3.1\CQRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\CQRS\obj\Debug\netcoreapp3.1\CQRS.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\CQRS\obj\Debug\netcoreapp3.1\CQRS.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\CQRS\obj\Debug\netcoreapp3.1\CQRS.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\CQRS\obj\Debug\netcoreapp3.1\CQRS.csproj.CopyComplete
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\CQRS\obj\Debug\netcoreapp3.1\CQRS.dll
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\CQRS\obj\Debug\netcoreapp3.1\CQRS.pdb
+C:\Users\raj.kumar\Desktop\Architecture\Architecture\CQRS\obj\Debug\netcoreapp3.1\CQRS.genruntimeconfig.cache
